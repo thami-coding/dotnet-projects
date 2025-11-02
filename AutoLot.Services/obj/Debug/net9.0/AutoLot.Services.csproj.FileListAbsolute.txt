@@ -1,0 +1,17 @@
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/bin/Debug/net9.0/AutoLot.Services.deps.json
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/bin/Debug/net9.0/AutoLot.Services.dll
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/bin/Debug/net9.0/AutoLot.Services.pdb
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/bin/Debug/net9.0/AutoLot.Dal.dll
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/bin/Debug/net9.0/AutoLot.Models.dll
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/bin/Debug/net9.0/AutoLot.Models.pdb
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/bin/Debug/net9.0/AutoLot.Dal.pdb
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/obj/Debug/net9.0/AutoLot.Services.csproj.AssemblyReference.cache
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/obj/Debug/net9.0/AutoLot.Services.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/obj/Debug/net9.0/AutoLot.Services.AssemblyInfoInputs.cache
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/obj/Debug/net9.0/AutoLot.Services.AssemblyInfo.cs
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/obj/Debug/net9.0/AutoLot.Services.csproj.CoreCompileInputs.cache
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/obj/Debug/net9.0/AutoLot..CAA93B7E.Up2Date
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/obj/Debug/net9.0/AutoLot.Services.dll
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/obj/Debug/net9.0/refint/AutoLot.Services.dll
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/obj/Debug/net9.0/AutoLot.Services.pdb
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Services/obj/Debug/net9.0/ref/AutoLot.Services.dll

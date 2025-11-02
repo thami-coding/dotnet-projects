@@ -1,0 +1,12 @@
+global using AutoLot.Dal.Repos;
+global using AutoLot.Dal.Repos.Base;
+global using AutoLot.Dal.Repos.Interfaces;
+global using AutoLot.Models.Entities;
+global using AutoLot.Models.Entities.Base;
+global using AutoLot.Dal.EfStructures;
+global using AutoLot.Dal.Initialization;
+global using Microsoft.EntityFrameworkCore;
+global using AutoLot.Services.DataServices;
+global using AutoLot.Services.DataServices.Interfaces;
+global using AutoLot.Services.DataServices.Api;
+global using AutoLot.Services.DataServices.Api.Base;

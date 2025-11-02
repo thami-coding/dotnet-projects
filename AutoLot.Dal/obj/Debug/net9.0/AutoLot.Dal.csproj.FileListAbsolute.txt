@@ -1,0 +1,17 @@
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/bin/Debug/net9.0/AutoLot.Dal.deps.json
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/bin/Debug/net9.0/AutoLot.Dal.runtimeconfig.json
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/bin/Debug/net9.0/AutoLot.Dal.dll
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/bin/Debug/net9.0/AutoLot.Dal.pdb
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/bin/Debug/net9.0/AutoLot.Models.dll
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/bin/Debug/net9.0/AutoLot.Models.pdb
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/AutoLot.Dal.csproj.AssemblyReference.cache
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/AutoLot.Dal.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/AutoLot.Dal.AssemblyInfoInputs.cache
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/AutoLot.Dal.AssemblyInfo.cs
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/AutoLot.Dal.csproj.CoreCompileInputs.cache
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/AutoLot..ABC3984B.Up2Date
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/AutoLot.Dal.dll
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/refint/AutoLot.Dal.dll
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/AutoLot.Dal.pdb
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/AutoLot.Dal.genruntimeconfig.cache
+/workspaces/ENTITY_FRAMEWORK_CORE/AutoLot.Dal/obj/Debug/net9.0/ref/AutoLot.Dal.dll
